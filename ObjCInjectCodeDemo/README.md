@@ -13,7 +13,7 @@
 
 
 
-####消息和方法的动态绑定
+#####消息和方法的动态绑定
 <pre>
         typedef void (^NSURLConnectionAsyncCompletion)(NSURLResponse* response, NSData* data, NSError* connectionError);
         
@@ -53,7 +53,7 @@ id objc_msgSend(id self, SEL op, arg1, arg2, ...)
 
 
 
-######获取哪些类实现了delegate
+#####获取哪些类实现了delegate
 
 <pre>
         const SEL selectors[] = {
