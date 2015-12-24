@@ -14,6 +14,13 @@ ReflectUtil:1023,利用runtime反射出一个对象的所有属性和对应的�
 
 CoreDataDemo：1021，CoreData的简单使用
 
+####社区
+12.24新手引导的Demo:
+
+GitHub:https://github.com/sunljz/demo/tree/master/GuideDemo
+
+教程:http://www.jianshu.com/p/b83aefdc9519
+
 
 ##SwiftDemos
 SwiftDemo1：1204，展示怎么用UITabBarController
