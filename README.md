@@ -14,6 +14,8 @@ ReflectUtil:1023,利用runtime反射出一个对象的所有属性和对应的�
 
 CoreDataDemo：1021，CoreData的简单使用
 
+StarViewDemo：12.25星星评分视图
+
 ####社区
 12.24新手引导的Demo:
 
