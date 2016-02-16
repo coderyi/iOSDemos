@@ -42,6 +42,11 @@ SwiftDemo1：1204，展示怎么用UITabBarController
 TableViewDemo:1204,展示怎么用UITableView
 
 TableViewDemo2:1204,自定义UITableViewCell，怎么样实现delegate模式
+####社区
+
+20160216
+
+[CoolNaviDemo 的swift版](https://github.com/ianisme/CoolNaviDemo_Swift):演示一个View如何观察UIScrollView的属性
 
 
 ##MacDemos
