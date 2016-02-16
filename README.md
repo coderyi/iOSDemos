@@ -25,6 +25,18 @@ GitHub:https://github.com/sunljz/demo/tree/master/GuideDemo
 
 
 ##SwiftDemos
+0216_02PickerViewDemo：如何使用UIPickerView
+
+0216_01_animate_TableViewDemo：一个简单的动画
+
+0216VideoDemo：如何播放一个video
+
+0215_02ImageZoomDemo：一个Image放大缩小的Demo
+
+0215_01RefreshControlDemo：展示UIRefreshControl的使用
+
+0215TimerDemo：展示NSTimer的使用
+
 SwiftDemo1：1204，展示怎么用UITabBarController
 
 TableViewDemo:1204,展示怎么用UITableView
