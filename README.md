@@ -25,6 +25,9 @@ GitHub:https://github.com/sunljz/demo/tree/master/GuideDemo
 
 
 ##SwiftDemos
+
+0217_02_CoreImageDemo:CoreImage的基本使用，展示了滤镜的使用
+
 0217_01_NSOperationDemo:展示如何使用NSBlockOperation，更多内容查看，http://www.appcoda.com/ios-concurrency/
 
 0217_RecordDemo:简单地使用录音以及播放录音
