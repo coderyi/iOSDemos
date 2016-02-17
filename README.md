@@ -25,6 +25,10 @@ GitHub:https://github.com/sunljz/demo/tree/master/GuideDemo
 
 
 ##SwiftDemos
+0217_01_NSOperationDemo:展示如何使用NSBlockOperation
+
+0217_RecordDemo:简单地使用录音以及播放录音
+
 0216_02PickerViewDemo：如何使用UIPickerView
 
 0216_01_animate_TableViewDemo：一个简单的动画
